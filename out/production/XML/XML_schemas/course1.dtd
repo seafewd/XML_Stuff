@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!ELEMENT course (book)+>
+<!ELEMENT book (name, year, author, isbn+, image?)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ATTLIST image id_code ID #REQUIRED>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT isbn (#PCDATA)>

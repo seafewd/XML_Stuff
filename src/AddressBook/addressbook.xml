@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!-- file addressbook.xml -->
+
+<ab:addressbook xmlns:ab="http://www.example.org/addresses"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.example.org/addresses addressbook.xsd">
+
+    <ab:address category="home">
+        <ab:name>Alice Smith</ab:name>
+        <ab:street>123 Maple Street</ab:street>
+        <ab:city>Mill Valley</ab:city>
+    </ab:address>
+
+    <ab:address category="office">
+        <ab:name>Helen Zoe</ab:name>
+        <ab:street>47 Eden Street</ab:street>
+        <ab:city>Cambridge</ab:city>
+    </ab:address>
+
+</ab:addressbook>

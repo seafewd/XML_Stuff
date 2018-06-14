@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="blabla" xmlns:blabla="blabla" elementFormDefault="qualified">
+
+    <xs:annotation>
+        <xs:documentation>
+            This XML schema is used for course literature.
+        </xs:documentation>
+    </xs:annotation>
+
+    <xs:element name="course"/>
+    <xs:element name="books"/>
+
+    <xs:element name="name" type="xs:string" />
+    <xs:element name="author" type="xs:string" />
+    <xs:element name="year" type="xs:integer" />
+    <xs:element name="isbn" type="xs:string" />
+
+
+</xs:schema>

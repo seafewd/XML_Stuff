@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl" ?>
+
+<!---file literatureList.xml -->
+
+<course>
+
+    <book>
+        <name>Big Java Early Objects, 5th Edition</name>
+        <year>2014</year>
+        <author>John Wiley &amp; Sons</author>
+        <isbn>978-1-118-31877-5</isbn>
+        <image href="https://puu.sh/Azsbq/7b6abef3a2.png" width="250" height="150" />
+    </book>
+
+    <book>
+        <name>"Core Java", 10th Edition</name>
+        <year>2016</year>
+        <author>Cay S.  Horstmann, Prentice Hall</author>
+        <isbn>978-0-13-417730-4 (Volume 1)</isbn>
+        <isbn>978-0-13-417729-8 (Volume 2)</isbn>
+        <image href="https://puu.sh/Aztrm/50715c1b68.png" width="250" height="150" />
+    </book>
+
+    <book>
+        <name>Test book, please ignore</name>
+        <year>2018</year>
+        <author>A. K.</author>
+        <isbn>978-0-13-542642-4 (Volume 1)</isbn>
+        <isbn>978-0-13-112331-8 (Volume 2)</isbn>
+        <image href="https://puu.sh/Aztrm/50715c1b68.png" width="250" height="150" />
+    </book>
+
+</course>
+

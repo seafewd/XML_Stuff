@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- root node -->
+<catalog xmlns="https://www.w3schools.com"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+         xs:schemaLocation="https://www.w3schools.com schema1.xsd">
+
+    <book>
+        <title>Fisker</title>
+        <author>Alex</author>
+        <publishedDate>today</publishedDate>
+        <pages>490</pages>
+        <chapters>35</chapters>
+    </book>
+
+    <book>
+        <title>Fisker</title>
+        <author>Alex</author>
+        <publishedDate>today</publishedDate>
+        <pages>490</pages>
+        <chapters>35</chapters>
+    </book>
+
+    <book>
+        <title>Fisker</title>
+        <author>Alex</author>
+        <publishedDate>today</publishedDate>
+        <pages>490</pages>
+        <chapters>35</chapters>
+    </book>
+
+    <book>
+        <title>Fisker</title>
+        <author>Alex</author>
+        <publishedDate>today</publishedDate>
+        <pages>490</pages>
+        <chapters>35</chapters>
+    </book>
+
+</catalog>
